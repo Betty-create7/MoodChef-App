@@ -16,7 +16,7 @@
 **APIs Used:** Spoonacular API(food), Foursquare API(location) and Spotify API(music)
 
 ## How to Run Locally
-1. Clone the repository: `git clone https://github.com/bettycreate-7/MoodChef-App.git`
+1. Clone the repository: `git clone https://github.com/betty-create7/MoodChef-App.git`
 2. Navigate to the folder: `cd [Moodchef]`
 3. Install dependencies: `pip install -r requirements.txt OR npm install`
 4. Run the app: `python app.py OR npm start`
